@@ -1,6 +1,6 @@
 # Support Vector Clustering
 
-## Gabriel Buffet, Nils Cazemier & Meilame TAYEBJEE
+## Gabriel Buffet, Nils Cazemier & Meilame Tayebjee
 ### ENSAE 2023-2024
 
 This project has been realised for the Advanced Machine Learning course of the MEng @ ENSAE (Paris, France) by Prof. Austin Stromme.
